@@ -5,6 +5,8 @@
 QQ群：522186932 ()
 QQv2.0群: 468357191 ()
 
+一些Android tv开发总结：http://git.oschina.net/kumei/AndroidTVWidget/wikis/Home
+
 ![运行DEMO](https://git.oschina.net/hailongqiu/AndroidTVWidget/raw/master/doc/demo.gif?dir=0&filepath=doc%2Fdemo.gif&oid=f30160b097d319e464d106b39c6b5414acc9fdac&sha=9de6aa98d14c3c80d88f4dfb93a5064ba2614a81 "在这里输入图片标题")
 
 Leanback 框架(类似谷歌的Leanback,更简直，更方便):
