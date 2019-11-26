@@ -2,6 +2,8 @@
 
 官方论坛：http://www.androidtvdev.com/ 
 
+我的个人博客：https://blog.csdn.net/qw85525006/category_6228458.html [欢迎一起学习]
+
 QQ群：522186932 ()
 QQv2.0群: 468357191 ()
 
