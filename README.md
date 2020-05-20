@@ -15,9 +15,8 @@ Leanback 框架(类似谷歌的Leanback,更简直，更方便):
 ![输入图片说明](http://git.oschina.net/uploads/images/2016/0911/112714_3027c40f_111902.gif "在这里输入图片标题")
 
 
-键盘框架：
-
 ![输入图片说明](http://git.oschina.net/uploads/images/2016/0528/012952_10a76d5c_111902.gif "在这里输入图片标题")
+
 ![输入图片说明](http://git.oschina.net/uploads/images/2016/0528/013009_c97c4191_111902.gif "在这里输入图片标题")
 
 菜单框架：
@@ -121,6 +120,10 @@ API文档：
 <p>
 <a href="https://github.com/lf8289/BorderViewDemo">BorderViewDemo</a>
 </p>
+
+## 感谢支持
+
+[![在这里插入图片描述](https://images.gitee.com/uploads/images/2020/0521/011337_c08fa48c_111902.jpeg)
 
 
 ## 版本更新
