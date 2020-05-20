@@ -124,8 +124,7 @@ API文档：
 ## 感谢支持
 
 
-[![在这里插入图片描述](https://images.gitee.com/uploads/images/2020/0521/011337_c08fa48c_111902.jpeg)
-
+[![在这里插入图片描述](https://images.gitee.com/uploads/images/2020/0521/011611_7e2f4f87_111902.jpeg)](http://www.cdnbye.com/)
 
 
 ## 版本更新
