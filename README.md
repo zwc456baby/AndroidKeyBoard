@@ -7,6 +7,15 @@
 QQ群：522186932 ()
 QQv2.0群: 468357191 ()
 
+极米科技有限公司招聘各种技术岗位，后台，应用，系统，还有硬件等等. 想投简历的小伙伴发给我，我直接内推，欢迎各位加入极米这个大家庭；
+以下面的格式，发到我的邮箱(hailong.qiu@xgimi.com)
+姓名，手机，邮箱
+推荐理由
+简历
+------------------------------------------------
+评论区，有详细的岗位列表
+
+
 一些Android tv开发总结：http://git.oschina.net/kumei/AndroidTVWidget/wikis/Home
 
 ![运行DEMO](https://git.oschina.net/hailongqiu/AndroidTVWidget/raw/master/doc/demo.gif?dir=0&filepath=doc%2Fdemo.gif&oid=f30160b097d319e464d106b39c6b5414acc9fdac&sha=9de6aa98d14c3c80d88f4dfb93a5064ba2614a81 "在这里输入图片标题")
