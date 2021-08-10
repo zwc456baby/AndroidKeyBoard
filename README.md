@@ -1,8 +1,16 @@
 # Android TV 开发框架
 
-官方论坛：http://www.androidtvdev.com/ 
+此项目仅充当备份。此项目原为网络下载的项目，但找不到原项目地址，于是自行上传备份
 
-我的个人博客：https://blog.csdn.net/qw85525006/category_6228458.html [欢迎一起学习]
+以下为原来的 README 文档:
+
+---
+
+~~官方论坛：http://www.androidtvdev.com/~~ 
+
+~~我的个人博客：https://blog.csdn.net/qw85525006/category_6228458.html [欢迎一起学习]~~
+
+---
 
 QQ群：522186932 ()
 QQv2.0群: 468357191 ()
