@@ -231,7 +231,11 @@ public class SoftKeyboardView extends View {
                 topPadding = (int) Math.rint(mSelectBgRect.top);
                 bottomPadding = (int) Math.rint(mSelectBgRect.bottom);
             }
-            rect = new Rect(rect.left - leftPadding, rect.top - rightPadding, rect.right + topPadding, rect.bottom + bottomPadding);
+            if(selectBgInKeyInner){
+                rect = new Rect(rect.left - leftPadding, rect.top - rightPadding, rect.right + topPadding, rect.bottom + bottomPadding);
+            }else{
+                rect = new Rect(rect.left, rect.top, rect.right, rect.bottom);
+            }
             selectDrawable.setBounds(rect);
             selectDrawable.draw(canvas);
         }
@@ -580,6 +584,7 @@ public class SoftKeyboardView extends View {
     private boolean mIsMoveRect = false;
     private int mMoveDuration = DEFAULT_MOVE_DURATION;
     private boolean mIsFront = false;
+    private boolean selectBgInKeyInner = false;
 
     /**
      * 设置按键边框的移动时间.
@@ -603,6 +608,15 @@ public class SoftKeyboardView extends View {
     public void setSelectSofkKeyFront(boolean isFront) {
         this.mIsFront = isFront;
         postInvalidate();
+    }
+
+    /**
+     * 按键的选中边框位于按键内部，而不是外部辐射
+     *
+     * @param inKeyInner
+     */
+    public void setBgInKeyInner(boolean inKeyInner){
+        this.selectBgInKeyInner = inKeyInner;
     }
 
 }
